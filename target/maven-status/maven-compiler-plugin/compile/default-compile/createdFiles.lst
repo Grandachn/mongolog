@@ -1,0 +1,5 @@
+com\granda\mogolog\GitUtil.class
+com\granda\mogolog\LogToMongo.class
+com\granda\mogolog\LogAspect.class
+com\granda\mogolog\ExceptionUtil.class
+com\granda\mogolog\LogUtil.class
